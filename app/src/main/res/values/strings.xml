@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2.2 Profile</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="web">Web</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="user_email">Email</string>
+    <string name="home">Home</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="user_name">Name</string>
+</resources>
